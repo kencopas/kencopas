@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenny Copas</h1>
-<h3 align="center">A passionate Data Engineer and Learning Coach</h3>
+<h3 align="center">A passionate Learning Coach and Data Engineer</h3>
 
 - 🔭 I’m currently working on [Capstone ETL Process Manager](https://github.com/kencopas/Capstone)
 
