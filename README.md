@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kenny Copas</h1>
 <h3 align="center">A passionate Learning Coach and Data Engineer</h3>
 
-- 🔭 I’m currently working on [Capstone ETL Process Manager](https://github.com/kencopas/Capstone)
-
-- 🌱 I’m currently learning **Apache Spark**
-
-- 💬 Ask me about **Dynamic Programming, Data Structures and Algorithms**
+- 💬 Ask me about **LLM Engineering, Dynamic Programming, Data Structures and Algorithms**
 
 - 📫 How to reach me **kenny@copas.net**
 
