@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenny Copas</h1>
-<h3 align="center">A passionate Software Engineer and LLM Developer</h3>
+<h3 align="center">A passionate AI Software Engineer</h3>
 
 - 💬 Ask me about **LLM Engineering, Dynamic Programming, Data Structures and Algorithms**
 
