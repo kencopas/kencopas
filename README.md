@@ -1,15 +1,74 @@
-<h1 align="center">Hi 👋, I'm Kenny Copas</h1>
-<h3 align="center">A passionate AI Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Kenneth Copas</h1>
+<h3 align="center">AI Engineer | LLM Systems | Agentic Workflows | Full-Stack AI Applications</h3>
 
-- 💬 Ask me about **LLM Engineering, Dynamic Programming, Data Structures and Algorithms**
-
-- 📫 How to reach me **kenny@copas.net**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kennycopas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennycopas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kennycopas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kennycopas" height="30" width="40" /></a>
+<p align="center">
+Building production-grade AI systems that integrate real-world data, automate workflows, and reduce operational friction.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🔧 What I Do
+
+- Design and build **LLM-powered applications** (RAG, agent systems, multi-model orchestration)
+- Engineer **full-stack AI systems** using Python, TypeScript, React, and modern cloud infrastructure
+- Develop **Model Context Protocol (MCP) systems** and agentic workflows for real-time automation
+- Integrate **enterprise data sources** (ServiceNow, Confluence, Splunk, AppDynamics)
+- Optimize developer workflows using **AI-enabled SDLC and automation pipelines**
+
+---
+
+### 🚀 Current Focus
+
+- Multi-model LLM frameworks (OpenAI, Claude, Gemini, Ollama)
+- Agent-to-agent communication and orchestration
+- Real-time AI systems with streaming data (WebSockets, event-driven architectures)
+- Knowledge graphs + vector databases (Neo4j, ChromaDB)
+- Scalable AI infrastructure in cloud environments (Azure)
+
+---
+
+### 🧠 Notable Work
+
+- Built a **full-stack incident triage system** with LLM reasoning + real-time data retrieval
+- Reduced **incident resolution time by ~80%** using AI agents and MCP architecture
+- Refactored applications into reusable **Source Reference Architectures (SRA)** saving teams 4–6 weeks
+- Delivered AI training improving developer/QA productivity by **~70%**
+- Designed automation workflows reducing manual work by **~90%**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+Python • TypeScript • JavaScript • Java • SQL
+
+**Frontend**  
+React • HTML • CSS
+
+**Backend & Systems**  
+FastAPI • Node.js • WebSockets • MCP (Model Context Protocol)
+
+**AI / Data**  
+OpenAI • Claude • Gemini • Ollama  
+ChromaDB • Neo4j • RAG Pipelines • Embeddings
+
+**Cloud & DevOps**  
+Azure • Docker • Linux • Git
+
+---
+
+### 📫 Contact
+
+- Email: **kenny@copas.net**
+- LinkedIn: https://linkedin.com/in/kennycopas
+- LeetCode: https://www.leetcode.com/kennycopas
+
+---
+
+### 📌 Philosophy
+
+Focused on building systems that are:
+- **Modular** – reusable across teams and use cases  
+- **Observable** – structured logging, traceable workflows  
+- **Deterministic where needed** – especially in data-sensitive pipelines  
+- **Adaptable** – multi-model, configurable AI integrations  
