@@ -1,74 +1,100 @@
 <h1 align="center">Hi 👋, I'm Kenneth Copas</h1>
-<h3 align="center">AI Engineer | LLM Systems | Agentic Workflows | Full-Stack AI Applications</h3>
+
+<h3 align="center">
+Applied AI Engineer | AI Systems Architecture | Intelligent Automation | Enterprise Platforms
+</h3>
 
 <p align="center">
-Building production-grade AI systems that integrate real-world data, automate workflows, and reduce operational friction.
+Designing AI systems that transform business operations through scalable architecture, intelligent automation, and practical engineering.
 </p>
 
 ---
 
-### 🔧 What I Do
+## Architecture & Systems Thinking
 
-- Design and build **LLM-powered applications** (RAG, agent systems, multi-model orchestration)
-- Engineer **full-stack AI systems** using Python, TypeScript, React, and modern cloud infrastructure
-- Develop **Model Context Protocol (MCP) systems** and agentic workflows for real-time automation
-- Integrate **enterprise data sources** (ServiceNow, Confluence, Splunk, AppDynamics)
-- Optimize developer workflows using **AI-enabled SDLC and automation pipelines**
+I enjoy turning ambiguous operational problems into well-defined technical systems.
+
+My work focuses on designing AI platforms, automation frameworks, and data-driven architectures that can be adopted across organizations—not simply building individual applications. I enjoy working across engineering, product, and business teams to identify high-impact opportunities and translate them into scalable technical solutions.
 
 ---
 
-### 🚀 Current Focus
+## What I Build
 
-- Multi-model LLM frameworks (OpenAI, Claude, Gemini, Ollama)
-- Agent-to-agent communication and orchestration
-- Real-time AI systems with streaming data (WebSockets, event-driven architectures)
-- Knowledge graphs + vector databases (Neo4j, ChromaDB)
-- Scalable AI infrastructure in cloud environments (Azure)
-
----
-
-### 🧠 Notable Work
-
-- Built a **full-stack incident triage system** with LLM reasoning + real-time data retrieval
-- Reduced **incident resolution time by ~80%** using AI agents and MCP architecture
-- Refactored applications into reusable **Source Reference Architectures (SRA)** saving teams 4–6 weeks
-- Delivered AI training improving developer/QA productivity by **~70%**
-- Designed automation workflows reducing manual work by **~90%**
+- Enterprise AI platforms and intelligent automation ecosystems
+- Agentic systems and multi-agent orchestration
+- LLM-powered knowledge systems and decision support
+- AI architecture for operational workflows
+- Reusable frameworks, reference architectures, and internal platforms
+- Event-driven and real-time distributed systems
+- Data integration pipelines connecting enterprise systems
 
 ---
 
-### 🛠️ Tech Stack
+## Areas of Interest
 
-**Languages**  
-Python • TypeScript • JavaScript • Java • SQL
+- Enterprise AI architecture
+- AI operating systems for business workflows
+- Agent orchestration and Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- Knowledge graphs and semantic systems
+- Distributed systems and event-driven architectures
+- AI governance, observability, and reliability
+- Platform engineering for AI
 
-**Frontend**  
-React • HTML • CSS
+---
 
-**Backend & Systems**  
-FastAPI • Node.js • WebSockets • MCP (Model Context Protocol)
+## Selected Experience
 
-**AI / Data**  
-OpenAI • Claude • Gemini • Ollama  
-ChromaDB • Neo4j • RAG Pipelines • Embeddings
+- Designed AI systems that automate complex operational workflows and significantly reduce manual effort
+- Built production LLM applications integrating enterprise knowledge sources and real-time data
+- Created reusable architecture patterns adopted across multiple development efforts
+- Developed agentic workflows supporting incident investigation and operational decision making
+- Led AI enablement initiatives improving engineering productivity through practical AI adoption
+- Focused on designing systems that remain maintainable, observable, and extensible as organizations scale
 
-**Cloud & DevOps**  
+---
+
+## Technical Foundation
+
+**Languages**
+
+Python • TypeScript • Java • SQL • JavaScript
+
+**AI & Data**
+
+OpenAI • Claude • Gemini • Ollama
+
+RAG • Vector Databases • Embeddings • Prompt Engineering • MCP
+
+**Architecture**
+
+Distributed Systems • Event-Driven Design • API Design • System Integration • Workflow Automation
+
+**Cloud & Infrastructure**
+
 Azure • Docker • Linux • Git
 
+**Application Development**
+
+FastAPI • React • Node.js • WebSockets
+
 ---
 
-### 📫 Contact
+## Engineering Principles
+
+I believe successful AI systems should be:
+
+- **Business-driven** — solving measurable operational problems
+- **Composable** — modular architectures that evolve over time
+- **Observable** — designed for monitoring, debugging, and continuous improvement
+- **Reliable** — deterministic where correctness matters
+- **Scalable** — supporting both organizational and technical growth
+- **Human-centered** — augmenting people rather than adding operational complexity
+
+---
+
+## Contact
 
 - Email: **kenny@copas.net**
 - LinkedIn: https://linkedin.com/in/kennycopas
-- LeetCode: https://www.leetcode.com/kennycopas
-
----
-
-### 📌 Philosophy
-
-Focused on building systems that are:
-- **Modular** – reusable across teams and use cases  
-- **Observable** – structured logging, traceable workflows  
-- **Deterministic where needed** – especially in data-sensitive pipelines  
-- **Adaptable** – multi-model, configurable AI integrations  
+- LeetCode: https://leetcode.com/kennycopas
